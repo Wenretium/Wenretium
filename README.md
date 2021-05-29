@@ -56,5 +56,8 @@ If you meet all of these, HAHA could I BE more excited?! 😆
 ![Wenretium's Github stats](https://github-readme-stats.vercel.app/api?username=Wenretium&show_icons=true)
 
  <!--START_SECTION:waka-->
- <!--END_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
 
