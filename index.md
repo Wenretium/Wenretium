@@ -51,9 +51,10 @@ If you meet all of these, HAHA could I BE more excited?! 😆
 
 
 
-## What I have done
+## When I'm coding
 
-![Wenretium's Github stats](https://github-readme-stats.vercel.app/api?username=Wenretium&show_icons=true)
+![Wenretium's Github stats](https://github-readme-stats.vercel.app/api?username=Wenretium&show_icons=true)<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wenretium">
 
  <!--START_SECTION:waka-->
  <!--END_SECTION:waka-->
+
