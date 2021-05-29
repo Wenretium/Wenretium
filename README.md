@@ -59,7 +59,7 @@
 ## We may become good friends if you
 + love cats 🐈🐈
 
-+ love F$\cdot$r$\cdot$i$\cdot$e$\cdot$n$\cdot$d$\cdot$s 👨🏻‍🤝‍👨🏻👫👩🏼‍🤝‍👩🏻
++ love F·r·i·e·n·d·s 👨🏻‍🤝‍👨🏻👫👩🏼‍🤝‍👩🏻
 
 + love LEGO 🧱
 
