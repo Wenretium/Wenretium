@@ -52,7 +52,10 @@
 ![Wenretium's Github stats](https://github-readme-stats.vercel.app/api?username=Wenretium&show_icons=true)<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wenretium">
 
  <!--START_SECTION:waka-->
- <!--END_SECTION:waka-->
+```text
+Other    3 mins          █████████████████████████   99.72 % 
+```
+<!--END_SECTION:waka-->
 
 
 
