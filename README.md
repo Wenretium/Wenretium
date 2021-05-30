@@ -80,23 +80,3 @@ If you meet all of these, HAHA could I BE more excited?! 😆
 
 📌 [CSDN Blog](https://blog.csdn.net/weixin_45725902?spm=1000.2115.3001.5343)
 
-```
-<div id="he-plugin-standard"></div>
-<script>
-WIDGET = {
-  "CONFIG": {
-    "layout": "1",
-    "width": "450",
-    "height": "150",
-    "background": "4",
-    "dataColor": "FFFFFF",
-    "backgroundColor": "7F9BC9",
-    "aqiColor": "FFFFFF",
-    "borderRadius": "8",
-    "key": "63ac585d4ae24d43b1dc7516c2b04ff6"
-  }
-}
-</script>
-<script src="https://widget.qweather.net/standard/static/js/he-standard-common.js?v=2.0"></script>
-```
-
