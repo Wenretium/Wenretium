@@ -51,7 +51,7 @@
 
 ![Wenretium's Github stats](https://github-readme-stats.vercel.app/api?username=Wenretium&show_icons=true)<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wenretium">
 
- <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
 
@@ -61,7 +61,7 @@
 
 #### 🛠 Deadline 速查
 
-本项目为班级管理助手--Deadline速查，通过班委的实时整理，同学们可通过该平台方便查看ddl。
+本项目为班级管理助手--[Deadline速查](https://github.com/Wenretium/DDL_Quick_Check)，通过班委的实时整理，同学们可通过该平台方便查看ddl。
 
 ![img](https://github.com/Wenretium/DDL_Quick_Check/raw/main/README_imgs/ddl%E9%80%9F%E6%9F%A5.jpg)
 
