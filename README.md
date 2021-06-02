@@ -59,7 +59,28 @@ Other    3 mins          ██████████████████�
 
 
 
+## My projects
+
+#### 🛠 Deadline 速查
+
+本项目为班级管理助手--Deadline速查，通过班委的实时整理，同学们可通过该平台方便查看ddl。
+
+![img](https://github.com/Wenretium/DDL_Quick_Check/raw/main/README_imgs/ddl%E9%80%9F%E6%9F%A5.jpg)
+
+#### 🛠 个人博客 [Wenretium's Space](https://wenretium.github.io/) 
+
+利用 Hexo 和 github pages，搭建个人博客，可进行同步更新和云备份。
+
+#### 🛠 用C++编写带gui的背单词小游戏
+
+大一下学期期末课程大作业，利用 Easyx 制作 gui。
+
+（尚未整理开源）
+
+
+
 ## We may become good friends if you
+
 + love cats 🐈🐈
 
 + love F·r·i·e·n·d·s 👨🏻‍🤝‍👨🏻👫👩🏼‍🤝‍👩🏻
@@ -79,4 +100,6 @@ If you meet all of these, HAHA could I BE more excited?! 😆
 ## To know more about me
 
 📌 [CSDN Blog](https://blog.csdn.net/weixin_45725902?spm=1000.2115.3001.5343)
+
+📌 My Blog: [Wenretium's Space](https://wenretium.github.io/)
 
