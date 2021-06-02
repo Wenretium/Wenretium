@@ -69,11 +69,11 @@
 
 利用 Hexo 和 github pages，搭建个人博客，可进行同步更新和云备份。
 
-#### 🛠 用C++编写带gui的背单词小游戏
+#### 🛠 用C++编写带GUI的[背单词小游戏](https://github.com/Wenretium/Word-Games)
 
-大一下学期期末课程大作业，利用 Easyx 制作 gui。
+大一下学期期末课程大作业，利用 Easyx 制作 GUI。
 
-（尚未整理开源）
+<img src="README/image-20210602234201109.png" alt="image-20210602234201109" style="zoom: 33%;" />
 
 
 
