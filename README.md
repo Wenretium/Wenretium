@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # What is Wenretium?
 
 
@@ -102,5 +101,6 @@ If you meet all of these, HAHA could I BE more excited?! 😆
 
 📌 [CSDN Blog](https://blog.csdn.net/weixin_45725902?spm=1000.2115.3001.5343)
 
-📌 My Blog: [Wenretium's Space](https://wenretium.github.io/)
+📌 My Blog: [Wenretium's Space](https://wenretium.github.io/) 
 
+ 
