@@ -73,7 +73,7 @@
 
 大一下学期期末课程大作业，利用 Easyx 制作 GUI。
 
-<img src="README/image-20210602234201109.png" alt="image-20210602234201109" style="zoom: 33%;" />
+<img src="README/image-20210602234201109.png" alt="image-20210602234201109" width="500" />
 
 
 
