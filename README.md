@@ -56,8 +56,9 @@
 
 
 
-
+<!--START_SECTION:waka-->
 ```text
+
 HTML         17 hrs 32 mins  ██████████████▓░░░░░░░░░░   58.02 % 
 Python       9 hrs           ███████▒░░░░░░░░░░░░░░░░░   29.81 % 
 CSS          2 hrs 5 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
@@ -65,6 +66,7 @@ Other        1 hr 13 mins    █░░░░░░░░░░░░░░░░
 JavaScript   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 ```
+<!--END_SECTION:waka-->
 
 
 ## My projects
