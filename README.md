@@ -53,16 +53,18 @@
 
 ![Wenretium's Github stats](https://github-readme-stats.vercel.app/api?username=Wenretium&show_icons=true)<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wenretium">
 
-<!--START_SECTION:waka-->
-```text
-Other        5 hrs 44 mins   █████████████▓░░░░░░░░░░░   54.29 % 
-Python       3 hrs 3 mins    ███████▒░░░░░░░░░░░░░░░░░   28.86 % 
-EJS          1 hr 26 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Git Config   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-YAML         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-```
-<!--END_SECTION:waka-->
 
+
+
+
+```text
+HTML         17 hrs 32 mins  ██████████████▓░░░░░░░░░░   58.02 % 
+Python       9 hrs           ███████▒░░░░░░░░░░░░░░░░░   29.81 % 
+CSS          2 hrs 5 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Other        1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+JavaScript   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+
+```
 
 
 ## My projects
