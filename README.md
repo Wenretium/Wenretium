@@ -1,6 +1,6 @@
 # What is Wenretium?
 
-
+❤🧡💛💚💙💜
 
 ## Hello😃, here's who I am
 
@@ -31,7 +31,7 @@
 
 
 ## Currently, I am
-+ saving money 💰 for Legos (sad to mention that I only have one set 🧱)
++ saving money 💰 for Legos (sad to mention that I only have one set 🧱 (2 now) )
 + enjoying (or struggling in sometimes) my current study 📚
 + preparing for my further study 📜
 
@@ -44,6 +44,8 @@
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)[![](https://img.shields.io/badge/-C++-269539?style=flat-square&logo=c%2B%2B&logoColor=ffffff)](https://www.cplusplus.com/)
 
 [![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)[![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)[![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/) (just interested in)
+
+[![](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=green)](https://Django.org/)
 
 [![](https://img.shields.io/badge/-PyTorch-269539?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)[![](https://img.shields.io/badge/-Tensorflow-fcc624?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 
@@ -93,7 +95,7 @@ YAML         7 mins          ▒░░░░░░░░░░░░░░░░
 
 + love games 🎮🎡
 
-+ hate the world 🤷‍♀️ but still wanna work for it 🙌
++ hate the world 🤷‍♀️ but still want to work for it 🙌
 
 + ......
 
@@ -106,5 +108,9 @@ If you meet all of these, HAHA could I BE more excited?! 😆
 📌 [CSDN Blog](https://blog.csdn.net/weixin_45725902?spm=1000.2115.3001.5343)
 
 📌 My Blog: [Wenretium's Space](https://wenretium.github.io/) 
+
+
+
+❤🧡💛💚💙💜
 
  
