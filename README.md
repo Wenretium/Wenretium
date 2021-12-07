@@ -61,7 +61,7 @@
 
 [![](https://img.shields.io/badge/-Markdown-2496ED?style=flat-square&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
 
-![Wenretium's Github stats](https://github-readme-stats.vercel.app/api?username=Wenretium&show_icons=true&theme=vision-friendly-dark)<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wenretium&layout=compact">
+![Wenretium's Github stats](https://github-readme-stats.vercel.app/api?username=Wenretium&show_icons=true&theme=vision-friendly-dark)<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wenretium&layout=compact&theme=vision-friendly-dark">
 
 
 
