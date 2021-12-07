@@ -61,12 +61,12 @@
 
 [![](https://img.shields.io/badge/-Markdown-2496ED?style=flat-square&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
 
-![Wenretium's Github stats](https://github-readme-stats.vercel.app/api?username=Wenretium&show_icons=true)<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wenretium">
-
+![Wenretium's Github stats](https://github-readme-stats.vercel.app/api?username=Wenretium&show_icons=true&theme=vision-friendly-dark)<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wenretium&layout=compact">
 
 
 
 <!--START_SECTION:waka-->
+
 ```text
 Python   10 hrs 19 mins  ██████████▓░░░░░░░░░░░░░░   42.50 % 
 Other    9 hrs 9 mins    █████████▒░░░░░░░░░░░░░░░   37.70 % 
@@ -96,6 +96,18 @@ Go       38 mins         ▓░░░░░░░░░░░░░░░░░�
 <img src="README/image-20210602234201109.png" alt="image-20210602234201109" width="500" />
 
 
+
+#### 🛠 中国画风格迁移网络[CIPGAN](https://github.com/Wenretium/CIPGAN)
+
+大二下《深度学习》课程大作业。
+
+![poster](README/poster.png)
+
+![补充材料](README/补充材料.png)
+
+#### 🛠 道路图像处理网站LightSRoad
+
+大创成果，待补充...
 
 ## We may become good friends if you
 
