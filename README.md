@@ -67,9 +67,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other        4 hrs 19 mins   ██████████░░░░░░░░░░░░░░░   40.26 % 
-Python       3 hrs 27 mins   ████████░░░░░░░░░░░░░░░░░   32.14 % 
-Scala        2 hrs 57 mins   ███████░░░░░░░░░░░░░░░░░░   27.54 % 
+Scala        2 hrs 57 mins   █████████░░░░░░░░░░░░░░░░   35.99 % 
+Other        2 hrs 43 mins   ████████▒░░░░░░░░░░░░░░░░   33.14 % 
+Python       2 hrs 32 mins   ███████▓░░░░░░░░░░░░░░░░░   30.80 % 
 ```
 <!--END_SECTION:waka-->
 
