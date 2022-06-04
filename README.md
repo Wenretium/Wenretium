@@ -67,9 +67,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other        8 hrs 3 mins    ███████████████████▓░░░░░   79.03 % 
-Python       2 hrs 6 mins    █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
-Qt UI file   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Other        9 hrs 43 mins   ███████████████████████░░   91.83 % 
+Python       49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+Qt UI file   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 ```
 <!--END_SECTION:waka-->
 
