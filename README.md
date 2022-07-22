@@ -12,7 +12,7 @@
       <p><b>School of Intelligent Engineering, SYSU</b></p>
       <p><b>Email: wenretium@163.com</b></p>
       <p><b>Address: Shenzhen, China</b></p>
-      <p><b>Howntown: Guangdong, China</b></p>
+      <p><b>Hometown: Guangdong, China</b></p>
     </td>
     <td width="25%">
       <img src="images/me.jpg" width="100%">     
@@ -31,9 +31,9 @@
 
 
 ## Currently, I am
-+ saving money 💰 for Legos (sad to mention that I only have one set 🧱 (2 now) )
 + enjoying (or struggling in sometimes) my current study 📚
 + preparing for my further study 📜
++ looking for funny things everyday 😋
 
 
 
@@ -77,12 +77,6 @@ Python   17 mins         ██▓░░░░░░░░░░░░░░░�
 
 ## My projects
 
-#### 🛠 Deadline 速查
-
-本项目为班级管理助手--[Deadline速查](https://github.com/Wenretium/DDL_Quick_Check)，通过班委的实时整理，同学们可通过该平台方便查看ddl。
-
-![img](https://github.com/Wenretium/DDL_Quick_Check/raw/main/README_imgs/ddl%E9%80%9F%E6%9F%A5.jpg)
-
 #### 🛠 个人博客 [Wenretium's Space](https://wenretium.github.io/) 
 
 利用 Hexo 和 github pages，搭建个人博客，可进行同步更新和云备份。
@@ -92,7 +86,6 @@ Python   17 mins         ██▓░░░░░░░░░░░░░░░�
 大一下学期期末课程大作业，利用 Easyx 制作 GUI。
 
 <img src="README/image-20210602234201109.png" alt="image-20210602234201109" width="500" />
-
 
 
 #### 🛠 中国画风格迁移网络[CIPGAN](https://github.com/Wenretium/CIPGAN)
@@ -105,7 +98,7 @@ Python   17 mins         ██▓░░░░░░░░░░░░░░░�
 
 #### 🛠 道路图像处理网站LightSRoad
 
-大创成果，待补充...
+大创成果。
 
 ## We may become good friends if you
 
@@ -127,9 +120,11 @@ If you meet all of these, HAHA could I BE more excited?! 😆
 
 ## To know more about me
 
+📌 My Blog: [Wenretium's Space](https://wenretium.github.io/) 
+
 📌 [CSDN Blog](https://blog.csdn.net/weixin_45725902?spm=1000.2115.3001.5343)
 
-📌 My Blog: [Wenretium's Space](https://wenretium.github.io/) 
+📌Please feel free to contact me by email.
 
 
 
