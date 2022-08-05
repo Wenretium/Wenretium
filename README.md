@@ -74,16 +74,9 @@
 
 大一下学期期末课程大作业，利用 Easyx 制作 GUI。
 
-<img src="README/image-20210602234201109.png" alt="image-20210602234201109" width="500" />
-
-
 #### 🛠 中国画风格迁移网络[CIPGAN](https://github.com/Wenretium/CIPGAN)
 
 大二下《深度学习》课程大作业。
-
-![poster](README/poster.png)
-
-![补充材料](README/补充材料.png)
 
 #### 🛠 道路图像处理网站LightSRoad
 
