@@ -64,18 +64,6 @@
 ![Wenretium's Github stats](https://github-readme-stats.vercel.app/api?username=Wenretium&show_icons=true&theme=vision-friendly-dark)<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wenretium&layout=compact&theme=vision-friendly-dark">
 
 
-
-<!--START_SECTION:waka-->
-```text
-C#      7 hrs 31 mins   ███████████▒░░░░░░░░░░░░░   45.91 % 
-Other   4 hrs 41 mins   ███████░░░░░░░░░░░░░░░░░░   28.61 % 
-C++     3 hrs 50 mins   ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
-CMake   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-XML     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-```
-<!--END_SECTION:waka-->
-
-
 ## My projects
 
 #### 🛠 个人博客 [Wenretium's Space](https://wenretium.github.io/) 
