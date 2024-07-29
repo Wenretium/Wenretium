@@ -8,11 +8,10 @@
   <tr>
     <td width="75%">
       <h1>Wenretium</h1>
-      <p><b>Undergraduate</b></p>
-      <p><b>School of Intelligent Engineering, SYSU</b></p>
+      <p><b>Master Student (2023-)</b></p>
+      <p><b>School of Computer Science and Engineering, SYSU</b></p>
       <p><b>Email: wenretium@163.com</b></p>
-      <p><b>Address: Shenzhen, China</b></p>
-      <p><b>Hometown: Guangdong, China</b></p>
+      <p><b>Address: Guangzhou, China</b></p>
     </td>
     <td width="25%">
       <img src="images/me.jpg" width="100%">     
@@ -78,10 +77,6 @@
 
 大二下《深度学习》课程大作业。
 
-#### 🛠 道路图像处理网站LightSRoad
-
-大创成果。
-
 ## We may become good friends if you
 
 + love cats 🐈🐈
@@ -96,7 +91,7 @@
 
 + ......
 
-If you meet all of these, HAHA could I BE more excited?! 😆
+If you meet all of these, could I BE more excited?! 😆
 
 
 
