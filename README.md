@@ -1,25 +1,4 @@
-# What is Wenretium?
-
-❤🧡💛💚💙💜
-
-## Hello😃, here's who I am
-
-<table border="0">
-  <tr>
-    <td width="75%">
-      <h1>Wenretium</h1>
-      <p><b>Master Student (2023-)</b></p>
-      <p><b>School of Computer Science and Engineering, SYSU</b></p>
-      <p><b>Email: wenretium@163.com</b></p>
-      <p><b>Address: Guangzhou, China</b></p>
-    </td>
-    <td width="25%">
-      <img src="images/me.jpg" width="100%">     
-    </td>
-  </tr>
-</table>
-
-
+Hello😃, here's who I am
 
 ## Hobbies
 
@@ -27,14 +6,9 @@
 
 **Laughing** 🤣 & **Learning** 💡
 
+I have TWO cats:
 
-
-## Currently, I am
-+ enjoying (or struggling in sometimes) my current study 📚
-+ preparing for my further study 📜
-+ looking for funny things everyday 😋
-
-
+![](/imgs/cats.jpg)
 
 ## When I mention coding, I mean
 
@@ -46,36 +20,37 @@
 
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)[![](https://img.shields.io/badge/-C++-269539?style=flat-square&logo=c%2B%2B&logoColor=ffffff)](https://www.cplusplus.com/)
 
-#### 🍰 Projects
-
-**Front-end:** [![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)[![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)[![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/) (just interested in)
-
-**Back-end:** [![](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=green)](https://Django.org/)(just interested in)
-
 #### 🪐 Deep Learning && AI
 
-[![](https://img.shields.io/badge/-PyTorch-269539?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)[![](https://img.shields.io/badge/-Tensorflow-fcc624?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![](https://img.shields.io/badge/-PyTorch-269539?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
 
-#### 📝 Notes
-
-[![](https://img.shields.io/badge/-Markdown-2496ED?style=flat-square&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
 
 ![Wenretium's Github stats](https://github-readme-stats.vercel.app/api?username=Wenretium&show_icons=true&theme=vision-friendly-dark)<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wenretium&layout=compact&theme=vision-friendly-dark">
 
 
 ## My projects
 
-#### 🛠 个人博客 [Wenretium's Space](https://wenretium.github.io/) 
+#### 🛠 [3D人体风格化动作序列生成](https://github.com/Wenretium/DiFusion-Stylized-Motion-Generation) (TVCG 2025)
 
-利用 Hexo 和 github pages，搭建个人博客，可进行同步更新和云备份。
+We propose DiFusion, a framework for diversely stylized motion generation. It offers flexible control of content through texts and style via multiple modalities, i.e., textual labels or motion sequences. Additionally, our approach can be extended to applications, such as motion style interpolation and motion style transfer.
+
+![](/imgs/jump.gif)
+
+#### 🛠 中国画风格迁移网络[CIPGAN](https://github.com/Wenretium/CIPGAN)
+
+大二下《深度学习》课程大作业。
+
+![](/imgs/cipgan.png)
 
 #### 🛠 用C++编写带GUI的[背单词小游戏](https://github.com/Wenretium/Word-Games)
 
 大一下学期期末课程大作业，利用 Easyx 制作 GUI。
 
-#### 🛠 中国画风格迁移网络[CIPGAN](https://github.com/Wenretium/CIPGAN)
+![](/imgs/game.png)
 
-大二下《深度学习》课程大作业。
+#### 🛠 个人博客 [Wenretium's Space](https://wenretium.github.io/) 
+
+利用 Hexo 和 github pages，搭建个人博客，可进行同步更新和云备份。
 
 ## We may become good friends if you
 
@@ -97,11 +72,7 @@ If you meet all of these, could I BE more excited?! 😆
 
 ## To know more about me
 
-📌 My Blog: [Wenretium's Space](https://wenretium.github.io/) 
-
-📌 [CSDN Blog](https://blog.csdn.net/weixin_45725902?spm=1000.2115.3001.5343)
-
-📌Please feel free to contact me by email.
+📌Please feel free to contact me by email (wenretium@163.com).
 
 
 
