@@ -8,7 +8,7 @@ Hello😃, here's who I am
 
 I have TWO cats:
 
-![](/imgs/cats.jpg)
+<img src="imgs/cats.jpg" width = "300"/>
 
 ## When I mention coding, I mean
 
@@ -40,13 +40,13 @@ We propose DiFusion, a framework for diversely stylized motion generation. It of
 
 大二下《深度学习》课程大作业。
 
-![](/imgs/cipgan.png)
+<img src="imgs/cipgan.png" width = "600"/>
 
 #### 🛠 用C++编写带GUI的[背单词小游戏](https://github.com/Wenretium/Word-Games)
 
 大一下学期期末课程大作业，利用 Easyx 制作 GUI。
 
-![](/imgs/game.png)
+<img src="imgs/game.png" width = "600"/>
 
 #### 🛠 个人博客 [Wenretium's Space](https://wenretium.github.io/) 
 
